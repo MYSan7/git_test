@@ -1,20 +1,3 @@
-The vengabus is coming
-And everybody's jumping
-New York to San Francisco
-An intercity disco
-The wheels of steel are turning
-And traffic lights are burning
-So if you like to party
-Get on and move your body
+Hello World!
 
-We like to party
-We like, we like to party
-We like to party
-We like, we like to party
-
-Hey now, hey now, hear what I say now
-Happiness is just around the corner
-Hey now, hey now, hear what I say now
-We'll be there for you
-
-Coz you're there for me too
+Onwards with my web dev journey. Just started with TOP, and continuing with FCC. I wonder if I can create my personal mini project within the year!
